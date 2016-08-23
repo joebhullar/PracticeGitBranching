@@ -19,6 +19,7 @@ THIS IS The Third Comment From Me WHEN I  ALREADY HAVE FILES ON GITHUB AND NEED 
 1.git add
 2. git commit -m “Third commit”
 3. git push -u origin master
+THIS IS IN THE MASTER FILE!
 
 To branch in Git simply use checkout command with -b option:
 
