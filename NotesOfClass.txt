@@ -14,3 +14,6 @@ Limitations:
 -If there’s continuous activity, must sleep for 6 hrs a day
 My ability to conquer my challenges is infinite.
 My potential to succeed is limitless
+
+THIS IS The Third Comment From Me
+1.git add .
