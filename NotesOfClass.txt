@@ -16,13 +16,14 @@ My ability to conquer my challenges is infinite.
 My potential to succeed is limitless
 
 THIS IS The Third Comment From Me WHEN I  ALREADY HAVE FILES ON GITHUB AND NEED TO PUSH THEM ONLINE TO GITHUB!
-1.git add 
+1.git add
 2. git commit -m “Third commit”
 3. git push -u origin master
 
 To branch in Git simply use checkout command with -b option:
 
 *git checkout -b my_awesome_branch
+
 *To check what branch you're on, you can simply type: git status
 
 Merge a branch into another, first make sure you are on the branch that you want to merge to. Let's say you want to merge the my_awesome_branch branch into master. First make sure you're on the master brach: git checkout master
