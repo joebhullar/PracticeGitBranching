@@ -1,0 +1,14 @@
+heroku login
+heroku create awesome-answers-nancy
+git init
+git add .
+git commit -m "git commit"
+git remote add heroku https://git.heroku.com/awesome-answers-nancy.git get the link from heroku (Git URL: awesome-answers-nancy)
+git push heroku master
+heroku run rails db:migrate
+heroku run rails db:seed
+live website!
+http://awesome-answers-nancy.herokuapp.com/
+Limitations:
+-30 min of inactivity, it will sleep. It has to wake up and that will take longer
+-If there’s continuous activity, must sleep for 6 hrs a day
