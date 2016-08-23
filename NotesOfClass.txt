@@ -20,6 +20,8 @@ THIS IS The Third Comment From Me WHEN I  ALREADY HAVE FILES ON GITHUB AND NEED 
 2. git commit -m “Third commit”
 3. git push -u origin master
 THIS Is the REAL CONFLICT ON LINE 22 6:28PM
+THIS IS IN THE MASTER FILE!
+
 To branch in Git simply use checkout command with -b option:
 
 *git checkout -b my_awesome_branch
