@@ -12,3 +12,5 @@ http://awesome-answers-nancy.herokuapp.com/
 Limitations:
 -30 min of inactivity, it will sleep. It has to wake up and that will take longer
 -If there’s continuous activity, must sleep for 6 hrs a day
+My ability to conquer my challenges is infinite.
+My potential to succeed is limitless
